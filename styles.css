@@ -1,0 +1,23 @@
+img.logo{
+    height: 70px;
+}
+
+.teamname{
+    font-size: xx-large;
+}
+
+.jumbotron {
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+
+.table{
+    text-align: center;
+}
+
+.tableheader{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
