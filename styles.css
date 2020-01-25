@@ -8,8 +8,10 @@ img.logo{
 
 .jumbotron {
     background-color: black;
+    background-image: url(jumbotron.jpg);
     background-size: cover;
     color: white;
+    background-attachment: fixed;
 }
 
 .table{
